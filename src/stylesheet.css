@@ -96,7 +96,7 @@ span{
 }
 a{
     color: antiquewhite;
-    font-size: 16px;
+    font-size: 18px;
     font-family:  "Tinos", serif;
     font-weight: 500;
     
@@ -105,7 +105,10 @@ a{
 }
 footer{
     margin-top: 30px;
+    padding-top: 20px;
     font-family: "Sedan SC";
     color: #202020;
+    text-align: center;
+    font-size: 16px;
 
 }
