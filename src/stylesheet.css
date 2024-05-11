@@ -51,7 +51,11 @@ select{
     column-gap: 10px;
     font-family:  "Tinos", serif;
     border-bottom: dashed 2px rgba(63, 62, 62, 0.4);
+    grid-gap: 8px;
 
+}
+.cities{
+    font-size: 26px;
 }
 
 .city-name{
@@ -61,12 +65,12 @@ select{
     font-family: "Tinos", serif;
     font-variant: small-caps;
     color: whitesmoke;
-    font-size: 20px;
+    font-size: 26px;
     
 }
 .time-city{
     display:grid;
-    font-size: 42px;
+    font-size: 48px;
     grid-row: 1;
     grid-column: 3;
     justify-content: end;
